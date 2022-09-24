@@ -13,4 +13,4 @@ kyverno installation and config
     deployment kyverno
 3. Kyverno is not namespace scoped unlike Keda
 4. Policy for CPU and resource limits
-kubectl apply --filename container-must-have-limits.yaml
+- kubectl apply --filename container-must-have-limits.yaml
