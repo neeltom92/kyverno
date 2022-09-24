@@ -2,7 +2,7 @@
 kyverno installation and config
 
 0. This is referred from : https://gist.github.com/vfarcic/9774cf9d4d39b02bb01db928d9f3a0d2
-1. ENSURE that Kyverno is installed before any other policies
+1. ENSURE that Kyverno is installed before any other k8s resources !!
 2. Install via Kubectl
 
 - kubectl create \
